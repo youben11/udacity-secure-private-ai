@@ -1,3 +1,7 @@
+# Important
+
+This work was now merged as part of the [PySyft project](https://github.com/OpenMined/PySyft) and the image can now be found [here](https://hub.docker.com/r/openmined/pysyft-notebook), newer versions can now be found there.
+
 # Udacity Secure and Private AI workspace
 
 For every course I take, I always need a workspace where I can practice and experience new stuffs, and it's sometimes helpful to have this workspace ready in our laptop so we can use it whenever we are, but it's sometimes challenging to setup it.
