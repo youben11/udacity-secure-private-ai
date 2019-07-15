@@ -13,7 +13,7 @@ Here I worked out a Docker image that have everything you need to start working 
 
 Just start the image from your terminal (just keep in mind that this have been tested on Linux only).
 ```bash
-$ docker container run youben/udacity-secure-private-ai:miniconda
+$ docker run -p 8888:8888 youben/udacity-secure-private-ai:miniconda
 [I 23:41:51.429 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
 [I 23:41:52.865 NotebookApp] Serving notebooks from local directory: /workspace
 [I 23:41:52.865 NotebookApp] The Jupyter Notebook is running at:
